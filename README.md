@@ -1,3 +1,4 @@
 # Author: KryptixRL
-# TwilioQuest
-Repo for TwilioQuest testing
+
+## TwilioQuest
+A 2D arcade game designed to teach the principles of ethical hacking
